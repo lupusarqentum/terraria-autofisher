@@ -7,7 +7,7 @@ import cv2
 
 from utils import click
 
-pytesseract.pytesseract.tesseract_cmd = r"D:\Grigorias\Программирование\fish\tesseract\tesseract"
+pytesseract.pytesseract.tesseract_cmd = r"D:\"
 
 class SimpleFisher:
 	
